@@ -1,10 +1,15 @@
 # Svelte + TailwindCSS Example
 
-Basic template for integration of Tailwind CSS with Svelte JS. 
+Basic template for integration of Tailwind CSS with Svelte JS. Designed to be used for a single page application (SPA).  
 
-As an added bonus, I've included an example of how to set up a theme toggle. 
+If you need server side rendering (SSR) then consider [Sapper](https://sapper.svelte.dev/) - I've also made a tempalate for this, visit [sapper-tailwind-firebase-host](https://github.com/Yarrney/sapper-tailwind-firebase-host).
 
-### Installation instructions
+## Features
+
+* Dark/Light Theme Example using CSS variables
+* Hash based routing from [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router)
+
+## Installation instructions
 Simply clone the repo via degit and have a blast! 
 
 `npx degit Yarrney/svelte-tailwindCSS` 
