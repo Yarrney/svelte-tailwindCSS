@@ -13,3 +13,6 @@ If you need server side rendering (SSR) then consider [Sapper](https://sapper.sv
 Simply clone the repo via degit and have a blast! 
 
 `npx degit Yarrney/svelte-tailwindCSS` 
+
+## Example
+Check out [this example](https://svelte-tailwindcss.yarrney.now.sh/) if you want to see what it looks like! 
