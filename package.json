@@ -28,6 +28,7 @@
     "rollup-plugin-terser": "^5.1.2",
     "svelte": "^3.0.0",
     "svelte-preprocess": "^3.2.6",
+    "svelte-spa-router": "^2.0.0",
     "tailwindcss": "^1.1.3"
   }
 }
